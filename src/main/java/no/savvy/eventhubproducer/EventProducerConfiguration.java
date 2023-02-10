@@ -1,4 +1,4 @@
-package no.savvy.weatherguesser;
+package no.savvy.eventhubproducer;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
